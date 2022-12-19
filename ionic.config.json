@@ -1,0 +1,7 @@
+{
+  "name": "file-explorer-local",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
