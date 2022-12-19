@@ -7,7 +7,7 @@ import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 import { PreviewAnyFile } from '@ionic-native/preview-any-file/ngx';
-
+////THIS IS TO MARK CURRENT STABLE FILES, VI MAKE SURE TO SAVE THIS////
 
 @NgModule({
   declarations: [AppComponent],
