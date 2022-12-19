@@ -6,7 +6,8 @@ import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
-import { PreviewAnyFile } from '@ionic-native/preview-any-file';
+import { PreviewAnyFile } from '@ionic-native/preview-any-file/ngx';
+
 
 @NgModule({
   declarations: [AppComponent],
